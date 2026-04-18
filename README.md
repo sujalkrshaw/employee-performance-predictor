@@ -108,7 +108,7 @@ The model predicts:
 
 ### 📊 Charts & Insights
 
-<img src="outputs/screenshots/charts.png" width="100%"/>
+<img src="outputs/screenshots/charts_insights.png" width="100%"/>
 
 ---
 
